@@ -109,3 +109,6 @@ Publishing libraries to Maven is a chore that takes time and effort. Jitpack.io 
 [3]: https://code.google.com/p/android-flowtextview/
 [4]: https://img.shields.io/github/release/deano2390/MaterialShowcaseView.svg?label=JitPack
 [5]: https://jitpack.io/#deano2390/MaterialShowcaseView
+
+
+MaterialShowcaseView可用于应用第一次启动时做应用介绍的遮罩控件，ShowcaseConfig类是关于这个控件的控制类，可以设置遮罩的颜色透明度等。
